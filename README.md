@@ -1,15 +1,14 @@
 Sistema de cadastro de clientes de pessoas físicas e jurídicas
 
-Features
-Cadastro de Pessoa Física
-Cadastro de Pessoa Jurídica
-Armazenamento de Registro em Arquivos
 
-Tecnologias Utilizadas:
-C#, .NET, Visual Studio Code
+	Features: Cadastro de Pessoa Física Cadastro de Pessoa Jurídica  e gera base de dados
 
-Pré-requisitos de instalação:
-.NetFramework, windows, Linux ou MaCos.
+	Tecnologias Utilizadas: C#
 
-Contribuidores: 
-Marcos Silva Souza
+	Pré-requisitos de instalação: internet, windows, Linux ou MaCos.
+
+	Execução da aplicação: clonar o projeto, abrir vs code, terminal, dotnet run
+
+	Erros comuns: Erro ao consultar nomes de arquivos diferentes
+
+	Contribuidores: Marcos Silva Souza
